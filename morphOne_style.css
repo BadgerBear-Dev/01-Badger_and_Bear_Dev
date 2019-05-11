@@ -148,17 +148,6 @@ body {
     transition-property: all;
 }
 
-.img1 {
-    left: 20%;
-    right: 20%;
-    top: 0;
-   
-    max-width: 100%;
-    padding-top: 0px;
-    float: none;
-    transition: 1.6s;
-    transition-property: all;
-}
 
 p, h1 {
     color: white;
